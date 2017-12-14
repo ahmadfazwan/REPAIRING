@@ -1,0 +1,790 @@
+{
+  "settings": {
+    "name": "REPAIRING",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.4.1",
+    "uniqCompNum": 12,
+    "versionPublish": "4.4.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#000000"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.ifixit.com/Store\" target=\"_blank\">TOOLS &amp; PARTS<br><br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">PORTFOLIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">CONTACT</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kfm-home-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tg23ed6ye7du28ei922-1600x1067.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0"
+          },
+          "title": "HOW REPAIR PHONE",
+          "text": "TOOL AND PARTS",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">HOW TO REPAIR IPHONE 5S</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">HOW TO REPAIR SAMSUNG S5</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-1"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "CONTACT",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#000000"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.ifixit.com/Store\" target=\"_blank\">TOOLS &amp; PARTS<br><br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">PORTFOLIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">CONTACT</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kfm-home-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/call-center2-500x334.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "title": "CONTACT FORM",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
+          "form": {
+            "action": "xenoversev@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-3"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "How to repair iphone5s",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#000000"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.ifixit.com/Store\" target=\"_blank\">TOOLS &amp; PARTS<br><br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">PORTFOLIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">CONTACT</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kfm-home-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-4"
+        },
+        {
+          "_params": {
+            "showHeader": true,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "HOW TO REPAIR IPHONE 5S",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iphone-screen-repair-600x449.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Repair Screen",
+          "caption1": "Step 1. To get inside your iPhone 5, you need to use the tiny star-shaped driver and undo the small screws either side of the Lightning port. Be sure to keep them safe as they're easy to lose.\n<br>\n<br>Step 2. Using the suction pad, lift the screen out of the case of the phone. this can be tough but if you use one hand to hold the case and the other to to pull the screen it usually comes out with a little effort. you can also use the plastic pics included to work the screen out once you've made a gap.\n<br><br>Step 3. Be careful not to lift the screen more than 90 degrees vertical as you may stretch the cables. Notice our replacement screen on the right and the fact there are three connector cables. These are hidden under the top metal plate inside our phone.\n<br>\n<br>Step 4. The plate is held in place by three metal screws. Undo these with the standard cross-head screw driver and again, be very careful when you remove them as they're very small indeed.\n<br>\n<br>5\n<br>\n<br>Step 6. The plate latches on the left hand side so nudge it to the left then lift it out using one of the plastic pics. Don't force it out - it should come loose easily.\n<br>\n<br>6\n<br>\n<br>Step 7. With the plate removed you'll now be able to see the three cables we need to attach. As you can see on our replacement screen, they are layered so deal with the top one first.\n<br>\n<br>7\n<br>\n<br>Step 8. To detach the connectors, use one of the plastic pics or the flat blade screw driver and gently pry them off. This needs very little force and be sure to do it right from the edge of the connector.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vy6gjboej2fpvqzp-600x450.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Change Battery",
+          "caption2": "1.The tool kit comes with a hex head screwdriver, which you use to remove two screws at the base of the phone\n<br>\n<br>\n<br>\n<br>2. Here's the tricky bit - attach the suction cup to the bottom of the screen and pull to remove the screen from the casing. The home button end of the iPhone isn't attached inside - only the ear piece end is. This can prove quite tricky but I found that attaching the cup to the side of the home button and pulling hard while holding the outside of the casing did the trick.\n<br>\n<br>\n<br>\n<br>3. Don't lift the lid more than 90 degrees as the other end is still attached as you can see below.\n<br>\n<br>\n<br>\n<br>4. Inside you'll see  a small metal plate held on by two screws. Use the included screwdriver to undo them.\n<br>\n<br>\n<br>\n<br>5. Use a plastic pick to detach the battery cable connector.\n<br>\n<br>\n<br>\n<br>6. The battery is held on with glue but a plastic sleeve underneath allows you to pull the battery out. You might need to use the plastic pic from the other side too.\n<br>\n<br>\n<br>\n<br>7. Insert your new battery and connect it to the battery terminal.\n<br>\n<br>\n<br>\n<br>8. Reinstall the metal clip and close the casing. Test the phone powers on then re-insert the base screws\n<br>\n<br>\n<br>\n<br>9. Lithium Ion batteries should not just be thrown away&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2boiwwdxsatnpxiw-600x450.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Repair Rear Camera<br>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/6-apple-iphone-5s-wifi-antenna-flex-cable-replacement-2-500x500.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "iPhone 5s Bluetooth and Wi-Fi Antenna Replacement\n<div><br></div>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iphone_5s_touch_id_bracket_removed_hero-17-600x450.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "iPhone 5s Home Button Replacement\r<div><br></div>",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-6"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "How to repair samsung 5",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#000000"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.ifixit.com/Store\" target=\"_blank\">TOOLS &amp; PARTS<br><br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">PORTFOLIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">CONTACT</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kfm-home-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/7993af553fae3190f5dc446f9c97dc01-600x449.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "CHANGE SCREEN",
+          "caption1": "Step 1 Rear Case\n<br>Insert a fingernail or plastic opening tool into the divot to the left of the rear-facing camera.\n<br><br>Insert a fingernail or plastic opening tool into the divot to the left of the rear-facing camera.\n<br>Gently pry and twist the flexible rear cover off the back of the phone.\n<br><br>Step 2 Battery\n<br>Insert a fingernail or plastic opening tool into the recess in the bottom right corner of the battery and lift upward.\n<br>\n<br><br>Insert a fingernail or plastic opening tool into the recess in the bottom right corner of the battery and lift upward.\n<br>Remove the battery away from the phone.\n<br> One comment\n<br>Step 3 microSD Card\n<br>Using a fingertip, pull the microSD card straight down out of its slot.\n<br>\n<br>\n<br>Using a fingertip, pull the microSD card straight down out of its slot.\n<br>Remove the microSD card from the phone.\n<br> One comment\n<br>Step 4 SIM Card\n<br>Repeat the above procedure to remove the SIM card.\n<br>Repeat the above procedure to remove the SIM card.\n<br><br>Step 5 Display Assembly\n<br>Use a plastic opening tool to pry up the plastic midframe connector panel.\n<br>\n<br>\n<br>\n<br>Use a plastic opening tool to pry up the plastic midframe connector panel.\n<br>Remove the connector panel with a pair of tweezers.\n<br>There should be enough adhesive to readhere the panel upon reassembly, otherwise use a small amount of double-stick tape.\n<br><br>Step 6\n<br>Use the sharp tip of a spudger to pry the home button cable connector straight up off its socket.\n<br>\n<br>\n<br>Use the sharp tip of a spudger to pry the home button cable connector straight up off its socket.\n<br><br>Step 7\n<br>In the following steps you will be using an iOpener to warm the adhesive affixing the display assembly to the rest of the phone. This will allow for a safer, easier screen removal. For proper iOpener use, follow our iOpener heating guide, make sure to pay attention to all warnings.\n<br>\n<br>\n<br>In the following steps you will be using an iOpener to warm the adhesive affixing the display assembly to the rest of the phone. This will allow for a safer, easier screen removal. For proper iOpener use, follow our iOpener heating guide, make sure to pay attention to all warnings.\n<br>Place a heated iOpener on the left side of the phone for at least 90 seconds.\n<br>Reheat the iOpener and place it on the right half of the phone.\n<br><br>Step 8\n<br>In the following steps you will be using an opening pick to separate the adhesive securing the front panel glass. Only pry where directed. If you experience resistance, stop sliding the opening pick and reapply heat.\n<br>\n<br>\n<br>In the following steps you will be using an opening pick to separate the adhesive securing the front panel glass. Only pry where directed. If you experience resistance, stop sliding the opening pick and reapply heat.\n<br>Insert the edge of an opening pick underneath the bottom right side of the front glass.\n<br><br>Step 9\n<br>Slide the opening pick up along the right side of the display.\n<br>\n<br>\n<br>\n<br>Slide the opening pick up along the right side of the display.\n<br><br><br>Step 10\n<br>Carefully slide the pick around the corner, stopping before the speaker grille at the top of the phone.\n<br><br>Carefully slide the pick around the corner, stopping before the speaker grille at the top of the phone.\n<br><br>Step 11\n<br>The adhesive securing the top of the phone is only a narrow strip above the earpiece speaker. Slide the pick along the top of the speaker to avoid damaging internal components.\n<br>\n<br><br>The adhesive securing the top of the phone is only a narrow strip above the earpiece speaker. Slide the pick along the top of the speaker to avoid damaging internal components.\n<br>Slide the opening pick across the top of the phone, being very careful not to insert the pick too deeply.\n<br><br>Step 12\n<br>If you encounter any resistance from cooling adhesive, reapply a heated iOpener to the left side of the phone.\n<br>\n<br>\n<br>\n<br>Carefully slide the pick around the upper left corner.\n<br>If you encounter any resistance from cooling adhesive, reapply a heated iOpener to the left side of the phone.\n<br><br>Step 13\n<br>Slide the opening pick down along the left half of the phone stopping at the lower left corner.\n<br>\n<br>\n<br>\n<br>Slide the opening pick down along the left half of the phone stopping at the lower left corner.\n<br><br>Step 14\n<br>Slide the opening pick all the way to the bottom left corner of the phone, making sure it is securely placed.\n<br>\n<br>\n<br>Slide the opening pick all the way to the bottom left corner of the phone, making sure it is securely placed.\n<br>In the following step you will be placing an iOpener over the home button end of the phone, you won't want your opening pick to slip out.\n<br><br>Step 15\n<br>Place a reheated iOpener over the bottom portion of the display assembly.\n<br>Place a reheated iOpener over the bottom portion of the display assembly.\n<br>There are delicate components in this portion of the phone, you want to ensure the adhesive is warm and easy to loosen to protect the phone.\n<br><br>Step 16\n<br>The bottom end of the phone contains the soft button and home button ribbon cables. If you insert the opening pick too far into the phone you risk cutting these cables.\n<br>\n<br>\n<br>\n<br>The bottom end of the phone contains the soft button and home button ribbon cables. If you insert the opening pick too far into the phone you risk cutting these cables.\n<br>Slide the very end of the opening pick across the bottom edge of the display to separate the last of the remaining adhesive.\n<br><br>Step 17\n<br>Twist the opening pick to detach the glass from the phone.\n<br>\n<br>\n<br>Twist the opening pick to detach the glass from the phone.\n<br>If the front panel does not detach easily, it may require additional adhesive cutting.\n<br><br>Step 18\n<br>If the front panel is not easily freed, the adhesive on the soft button cable may need to be separated.\n<br>\n<br>\n<br>If the front panel is not easily freed, the adhesive on the soft button cable may need to be separated.\n<br>These cables are thin and easily damaged, therefore be certain you are only peeling them off the display assembly and not lacerating them.\n<br>Insert an opening pick under the soft button icons on the display and pry the button cables down off the inside of the front panel.\n<br><br>Step 19\n<br>Slightly lift, but do not remove, the home button end of display assembly.\n<br>\n<br>\n<br>Slightly lift, but do not remove, the home button end of display assembly.\n<br>Do not remove the front panel entirely. It is still attached by a connector.\n<br>If you are reusing the home button flex cable, be careful not to sever the cable from the home button. Adhesive can cause the cable to rip apart from the home button. While the home button will still work, the fingerprint scanner will not.\n<br><br>Step 20\n<br> Use the sharp tip of a spudger to lift the front panel assembly cable connector straight up off its socket on the motherboard.\n<br>\n<br>\n<br>\n<br>Use the sharp tip of a spudger to lift the front panel assembly cable connector straight up off its socket on the motherboard.\n<br>Safely remove the front panel assembly from phone..",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/check-the-charging-port-on-your-galaxy-s5.-thedroidlawyer.com-565x405.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "REPAIR CHARGING PORT",
+          "caption2": "What you need\n<br>\n<br>•\tsmall screwdriver\n<br>•\tpry tool\n<br>•\tspudger\n<br>•\thair dryer\n<br>•\tnew charging port/daughterboard\n<br>\n<br>STEP 1: Remove the rear case cover, battery, and micro SD card.\n<br>\n<br>STEP 2: Use the pry tool to remove the midframe connector panel; then use the spudger to remove the home button cable connector. \n<br>\n<br>STEP 3: Use the hair dryer to heat the screen side of your Galaxy S5. Then, use your pry tool to gently pry around the edges as you heat. The heat will loosen the adhesive affixing the screen to the frame. Keep heating and prying until you can pull the screen away from the frame, hinged at the top. \n<br>\n<br>STEP 4: Use the spudger to remove the front panel assembly cable; now you can remove the screen (front panel assembly) completely.\n<br>\n<br>STEP 5: Remove the ten midframe screws from the front panel assembly side of the midframe, then turn your Galaxy S5 over and remove two additional screws on the back of the midframe.\n<br><br>STEP 6: Use the pry tool to carefully remove the back half of the midframe. \n<br>\n<br>STEP 7: Use the spudger to disconnect the antenna connector. \n<br>\n<br>STEP 8: Pull the top of the motherboard up from the midframe to expose the connectors underneath, but do not remove it. \n<br>\n<br>STEP 9: Use the spudger to remove the daughterboard connector from the motherboard. \n<br>\n<br>STEP 10: Use the spudger to remove the soft rubber cables from the midframe. \n<br>\n<br>STEP 11: Remove the single charging port/daughterboard screw. \n<br>\n<br>STEP 12: Use the spudger to pull the charging port/daughterboard away from the midframe. Be careful, because it's held down with adhesive. \n<br>\n<br>STEP 13: Insert the new charging port/daughterboard, then reassemble your Samsung Galaxy S5 by following these directions in reverse order. .",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20140505-102847-600x450.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "CHANGE LEN CAMERA",
+          "caption3": "1. The camera lens cover/ring can pry from that corner with much effort.\n<br><br>2. Remove the camera lens cover, a lot adhesive can be seen here. The inner edges are glued black adhesive to seal the edges of camera lens, the outer edges are glued with crystal adhesive to seal the cover edges. That two kinds of adhesive sticker are the waterproof adhesive for S5.\n<br><br>3. Now we can see the camera lens. And use the tweezers to insert into the edges of camera lens and cut the adhesive under the camera lens, and can remove the camera lens.\n<br><br>4. Have a look at the removed camera lens. It's really weak. The lacquer along the edges have been scratched.\n<br><br>5. Sorry i removed the black adhesive felt pad (i don't know how to name it), but you can still see a little there. Maybe you can imagine what is full of the black adhesive except the center.\n<br><br>Samsung really do a lot for achieving water resistant which proved by replacing a broken camera lens. Fixing is really not easy, and a lot original adhesive are needed.\n<br>\n<br>At least for now, it's not wise to repair it yourself. So good luck to you!",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/remove-the-galaxy-s5-loud-speaker-480x320.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "CHANGE SPEAKER",
+          "caption4": "&nbsp;Step 1 Rear Case \n<br>Insert a fingernail or plastic opening tool into the divot to the left of the rear-facing camera. \n<br>\n<br>Insert a fingernail or plastic opening tool into the divot to the left of the rear-facing camera. \n<br>Gently pry and twist the flexible rear cover off the back of the phone. \n<br>\n<br>Step 2 Battery \n<br>Insert a fingernail or plastic opening tool into the recess in the bottom right corner of the battery and lift upward. \n<br>\n<br>\n<br>Insert a fingernail or plastic opening tool into the recess in the bottom right corner of the battery and lift upward. \n<br>Remove the battery away from the phone. \n<br>One comment \n<br>Step 3 microSD Card \n<br>Using a fingertip, pull the microSD card straight down out of its slot. \n<br>\n<br>\n<br>Using a fingertip, pull the microSD card straight down out of its slot. \n<br>Remove the microSD card from the phone. \n<br>One comment \n<br>Step 4 SIM Card \n<br>Repeat the above procedure to remove the SIM card. \n<br>Repeat the above procedure to remove the SIM card. \n<br>\n<br>Step 5 Display Assembly \n<br>Use a plastic opening tool to pry up the plastic midframe connector panel. \n<br>\n<br>\n<br>\n<br>Use a plastic opening tool to pry up the plastic midframe connector panel. \n<br>Remove the connector panel with a pair of tweezers. \n<br>There should be enough adhesive to readhere the panel upon reassembly, otherwise use a small amount of double-stick tape. \n<br>\n<br>Step 6 \n<br>Use the sharp tip of a spudger to pry the home button cable connector straight up off its socket. \n<br>\n<br>\n<br>Use the sharp tip of a spudger to pry the home button cable connector straight up off its socket. \n<br>\n<br>Step 7 \n<br>In the following steps you will be using an iOpener to warm the adhesive affixing the display assembly to the rest of the phone. This will allow for a safer, easier screen removal. For proper iOpener use, follow our iOpener heating guide, make sure to pay attention to all warnings. \n<br>\n<br>\n<br>In the following steps you will be using an iOpener to warm the adhesive affixing the display assembly to the rest of the phone. This will allow for a safer, easier screen removal. For proper iOpener use, follow our iOpener heating guide, make sure to pay attention to all warnings. \n<br>Place a heated iOpener on the left side of the phone for at least 90 seconds. \n<br>Reheat the iOpener and place it on the right half of the phone. \n<br>\n<br>Step 8 \n<br>In the following steps you will be using an opening pick to separate the adhesive securing the front panel glass. Only pry where directed. If you experience resistance, stop sliding the opening pick and reapply heat. \n<br>\n<br>\n<br>In the following steps you will be using an opening pick to separate the adhesive securing the front panel glass. Only pry where directed. If you experience resistance, stop sliding the opening pick and reapply heat. \n<br>Insert the edge of an opening pick underneath the bottom right side of the front glass. \n<br>\n<br>Step 9 \n<br>Slide the opening pick up along the right side of the display. \n<br>\n<br>\n<br>\n<br>Slide the opening pick up along the right side of the display. \n<br>\n<br>\n<br>Step 10 \n<br>Carefully slide the pick around the corner, stopping before the speaker grille at the top of the phone. \n<br>\n<br>Carefully slide the pick around the corner, stopping before the speaker grille at the top of the phone. \n<br>\n<br>Step 11 \n<br>The adhesive securing the top of the phone is only a narrow strip above the earpiece speaker. Slide the pick along the top of the speaker to avoid damaging internal components. \n<br>\n<br>\n<br>The adhesive securing the top of the phone is only a narrow strip above the earpiece speaker. Slide the pick along the top of the speaker to avoid damaging internal components. \n<br>Slide the opening pick across the top of the phone, being very careful not to insert the pick too deeply. \n<br>\n<br>Step 12 \n<br>If you encounter any resistance from cooling adhesive, reapply a heated iOpener to the left side of the phone. \n<br>\n<br>\n<br>\n<br>Carefully slide the pick around the upper left corner. \n<br>If you encounter any resistance from cooling adhesive, reapply a heated iOpener to the left side of the phone. \n<br>\n<br>Step 13 \n<br>Slide the opening pick down along the left half of the phone stopping at the lower left corner. \n<br>\n<br>\n<br>\n<br>Slide the opening pick down along the left half of the phone stopping at the lower left corner. \n<br>\n<br>Step 14 \n<br>Slide the opening pick all the way to the bottom left corner of the phone, making sure it is securely placed. \n<br>\n<br>\n<br>Slide the opening pick all the way to the bottom left corner of the phone, making sure it is securely placed. \n<br>In the following step you will be placing an iOpener over the home button end of the phone, you won't want your opening pick to slip out. \n<br>\n<br>Step 15 \n<br>Place a reheated iOpener over the bottom portion of the display assembly. \n<br>Place a reheated iOpener over the bottom portion of the display assembly. \n<br>There are delicate components in this portion of the phone, you want to ensure the adhesive is warm and easy to loosen to protect the phone. \n<br>\n<br>Step 16 \n<br>The bottom end of the phone contains the soft button and home button ribbon cables. If you insert the opening pick too far into the phone you risk cutting these cables. \n<br>\n<br>\n<br>\n<br>The bottom end of the phone contains the soft button and home button ribbon cables. If you insert the opening pick too far into the phone you risk cutting these cables. \n<br>Slide the very end of the opening pick across the bottom edge of the display to separate the last of the remaining adhesive. \n<br>\n<br>Step 17 \n<br>Twist the opening pick to detach the glass from the phone. \n<br>\n<br>\n<br>Twist the opening pick to detach the glass from the phone. \n<br>If the front panel does not detach easily, it may require additional adhesive cutting. \n<br>\n<br>Step 18 \n<br>If the front panel is not easily freed, the adhesive on the soft button cable may need to be separated. \n<br>\n<br>\n<br>If the front panel is not easily freed, the adhesive on the soft button cable may need to be separated. \n<br>These cables are thin and easily damaged, therefore be certain you are only peeling them off the display assembly and not lacerating them. \n<br>Insert an opening pick under the soft button icons on the display and pry the button cables down off the inside of the front panel. \n<br>\n<br>Step 19 \n<br>Slightly lift, but do not remove, the home button end of display assembly. \n<br>\n<br>\n<br>Slightly lift, but do not remove, the home button end of display assembly. \n<br>Do not remove the front panel entirely. It is still attached by a connector. \n<br>If you are reusing the home button flex cable, be careful not to sever the cable from the home button. Adhesive can cause the cable to rip apart from the home button. While the home button will still work, the fingerprint scanner will not. \n<br>\n<br>Step 20 \n<br>Use the sharp tip of a spudger to lift the front panel assembly cable connector straight up off its socket on the motherboard.&nbsp;",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-8"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "PORTFOLIO",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#000000"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.ifixit.com/Store\" target=\"_blank\">TOOLS &amp; PARTS<br><br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">PORTFOLIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">CONTACT</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kfm-home-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-9"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/government-of-venezuela-websites-hacked-511842-2-804x506.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-20170114-wa0024-139x140.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "AHMAD FAZWAN BIN BAHARIN",
+          "text": "<p>TEMPAT LAHIR : HOSPITAL BESAR MELAKA</p><p>TARIKH LAHIR : 20 OGOS 1996</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-a"
+        }
+      ]
+    }
+  }
+}
